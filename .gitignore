@@ -8,3 +8,4 @@ apps/*/migrations/*
 test-output.txt
 test.txt
 test_vars.py
+db.sqlite3
