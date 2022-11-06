@@ -1,0 +1,10 @@
+env/
+__pycache__
+.env
+workspace.code-workspace
+apps/*/migrations/*
+!apps/*/migrations/__init__.py
+*.pdf
+test-output.txt
+test.txt
+test_vars.py
